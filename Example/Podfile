@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FlutterPod_Example' do
+  pod 'FlutterPod', :path => '../'
+
+  target 'FlutterPod_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

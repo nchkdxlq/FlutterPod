@@ -1,0 +1,16 @@
+PODS:
+  - FlutterPod (0.1.0)
+
+DEPENDENCIES:
+  - FlutterPod (from `../`)
+
+EXTERNAL SOURCES:
+  FlutterPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FlutterPod: 208e24a547feceb23d882e8b0260fa551f9157f0
+
+PODFILE CHECKSUM: c852444a991351843e54a910672aadb1b7f72db0
+
+COCOAPODS: 1.7.5

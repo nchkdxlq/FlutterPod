@@ -1,0 +1,22 @@
+{
+  "name": "FlutterPod",
+  "version": "0.1.0",
+  "summary": "A short description of FlutterPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/nchkdxlq/FlutterPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "nchkdxlq": "nchkdxlq@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/nchkdxlq/FlutterPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FlutterPod/Classes/**/*"
+}
