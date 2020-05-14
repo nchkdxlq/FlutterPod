@@ -36,4 +36,4 @@ Carthage/Build
 #
 # Pods/
 
-ios_frameworks/
+ios_frameworks/*.framework
